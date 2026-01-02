@@ -74,10 +74,6 @@ You can call me Rod. I'm studying IoT (Internet of Things), I love technology an
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodineyw&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-<p align="center">
-<a href="https://wakatime.com/@rodineyw"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=rodineyw&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="@rodineyw wakatime stats"/></a>
-<a href="https://github.com/rodineyw?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=rodineyw&theme=onestar&no-frame=true&column=3&row=2" width="38%" alt="@rodineyw trophy stats"/></a>
-</p>
 
 <p align="center">
 <a href="https://wakatime.com/@rodineyw"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
