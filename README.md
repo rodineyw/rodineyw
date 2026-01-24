@@ -53,9 +53,13 @@ You can call me Rod. I'm studying IoT (Internet of Things), I love technology an
 <h3>📲 Contact:</h3>
 <br>
 <p>
-<a href="https://www.linkedin.com/in/r%C3%B3diney-wanderson-06945b90/" target="_blank" rel="noopener noreferrer">
-  <img align="center" height="25" src="https://img.shields.io/badge/-Rodiney_Wanderson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/rodineyw/" target="_blank" rel="noopener noreferrer">
+    <img align="center" height="25" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  
+  &nbsp; <a href="mailto:rodineyw@yahoo.com.br">
+    <img align="center" height="25" src="https://img.shields.io/badge/-rodineyw@yahoo.com.br-05122A?style=flat&logo=yahoo&logoColor=white" alt="email"/>
+  </a>
 </p>
 </div>
 
