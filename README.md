@@ -6,7 +6,7 @@
 - 👔 Consultor de Software na Perez de Rezende - Advogados
 </p>
 <p>
-- 📚️ Cursei Internet das Coisas.
+- 📚️ Estudei IoT (Internet das Coisas).
 </p>
 <p>
 - 🥰 Estou muito interessado em trabalhar com Código Aberto.
@@ -32,7 +32,7 @@ Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), amo tecnolo
 - 👔 Software Consultant at the Perez de Rezende - Lawyers
 </p>
 <p>
-- 📚️ I studied the Internet of Things.
+- 📚️ I studied the IoT (Internet of Things).
 </p>
 <p>
 - 🥰 I'm very interested in working with Open Source.
