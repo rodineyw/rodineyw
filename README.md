@@ -62,23 +62,29 @@ You can call me Rod. I'm studying IoT (Internet of Things), I love technology an
 ##
 
 <br/>
+
 <div align="center">
 
 <p align="center">
-<a href="https://github.com/rodineyw?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=rodineyw&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@rodineyw github-readme-stats"/></a>
-<a href="https://github.com/rodineyw?tab=stars"><img src="https://streak-stats.demolab.com?user=rodineyw&theme=gotham&hide_border=true&v=2" width="48%" alt="@rodineyw github-readme-streak-stats"/></a>
+  <a href="https://github.com/rodineyw?tab=repositories">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rodineyw&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@rodineyw github-readme-stats"/>
+  </a>
+  
+  <a href="https://github.com/rodineyw?tab=stars">
+      <img src="https://github-readme-streak-stats-rodiney.vercel.app/?user=rodineyw&theme=gotham&hide_border=true" width="48%" alt="@rodineyw github-readme-streak-stats"/>
+  </a>
 </p>
 
 <p align="center">
-    <a href="https://wakatime.com/@rodineyw">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodineyw&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+  <a href="https://wakatime.com/@rodineyw">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodineyw&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+  </a>
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@rodineyw"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/rodineyw?tab=following"><img src="https://img.shields.io/github/stars/rodineyw?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/rodineyw?tab=followers"><img src="https://img.shields.io/github/followers/rodineyw?&logoColor=red&style=social" alt="GitHub followers"></a>
+  <a href="https://wakatime.com/@rodineyw"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
+  <a href="https://github.com/rodineyw?tab=following"><img src="https://img.shields.io/github/stars/rodineyw?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+  <a href="https://github.com/rodineyw?tab=followers"><img src="https://img.shields.io/github/followers/rodineyw?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
 ![Snake animation](https://github.com/rodineyw/rodineyw/blob/output/github-contribution-grid-snake.svg)
