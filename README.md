@@ -67,7 +67,7 @@ You can call me Rod. I'm studying IoT (Internet of Things), I love technology an
 
 <p align="center">
   <a href="https://github.com/rodineyw?tab=repositories">
-      <img src="https://github-readme-stats-beta-flame-u9hd3imblf.vercel.app/api?username=rodineyw&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@rodineyw github-readme-stats"/>
+      <img src="https://github-readme-stats-ten-lovat-74.vercel.app/api?username=rodineyw&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache=v1" width="48%" alt="@rodineyw github-readme-stats"/>
   </a>
   
   <a href="https://github.com/rodineyw?tab=stars">
@@ -84,6 +84,7 @@ You can call me Rod. I'm studying IoT (Internet of Things), I love technology an
 <p align="center">
   <a href="https://wakatime.com/@rodineyw"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
   <a href="https://github.com/rodineyw?tab=following"><img src="https://img.shields.io/github/stars/rodineyw?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+  <a href="https://github.com/rodineyw?tab=followers"><img src="https://img.shields.io/github/followers/rodineyw?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
 ![Snake animation](https://github.com/rodineyw/rodineyw/blob/output/github-contribution-grid-snake.svg)
