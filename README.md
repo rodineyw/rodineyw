@@ -1,93 +1,85 @@
-<h2 align="center">Olá! Eu sou Ródiney. </h2>
-
-<a href="https://app.daily.dev/rodineyw"><img align="right" src="https://api.daily.dev/devcards/v2/iK1sOSOuCvk6UVpoFTbwS.png?r=1v9&type=default" width="300em" alt="rodineyw"/></a>
-
-<p>
-- 👔 Consultor de Software na Perez de Rezende - Advogados
-</p>
-<p>
-- 📚️ Estudei IoT (Internet das Coisas).
-</p>
-<p>
-- 🥰 Estou muito interessado em trabalhar com Código Aberto.
-</p>
-<p>
-- 😊 Pronomes: ele/dele
-</p>
-<p>
-- 🧐 Curiosidade:<br>
-Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), amo tecnologia e pretendo me desenvolver nessa área.
-</p>
-<p>Sou curioso e gosto de aprender um pouco de tudo.</p>
-<p>Desenvolvedor Python Jr, prática em automação de sistemas e analise de Dados.</p>
-<p>Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto e Inteligência Artificial.</p>
-
 <div align="center">
 
-### Hello! I'm Rodiney.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=50&section=header&text=Hello!%20I'm%20Rod.&fontSize=30&fontColor=ffffff&fontAlign=50" alt="Header" />
+
+  <a href="https://app.daily.dev/rodineyw">
+    <img align="right" src="https://api.daily.dev/devcards/v2/iK1sOSOuCvk6UVpoFTbwS.png?r=1v9&type=default" width="300" alt="rodineyw's Dev Card"/>
+  </a>
+
+  <div align="left">
+    <h3>👨‍💻 Sobre Mim / About Me</h3>
+    <p>
+      <b>PT:</b> Moro em São Paulo, sou Consultor de Software e Especialista em Dados. Meu foco é resolver problemas complexos usando <b>Python</b> para automação, ETL e análise de dados, além de criar visualizações robustas em <b>Power BI</b>. Atualmente estou focado em projetos de Engenharia de Dados e desenvolvimento de ferramentas próprias.
+    </p>
+    <p>
+      <b>EN:</b> Based in São Paulo, I'm a Software Consultant and Data Specialist. My focus is solving complex problems using <b>Python</b> for automation, ETL, and data analysis, as well as creating robust visualizations in <b>Power BI</b>. Currently focused on Data Engineering projects and developing proprietary tools.
+    </p>
+  </div>
 
 </div>
 
-<p>
-- 👔 Software Consultant at the Perez de Rezende - Lawyers
-</p>
-<p>
-- 📚️ I studied the IoT (Internet of Things).
-</p>
-<p>
-- 🥰 I'm very interested in working with Open Source.
-</p>
-<p>
-- 😊 He/His
-</p>
-<p>
-- 🧐 Curiosity about me:
-<br>
-You can call me Rod. I'm studying IoT (Internet of Things), I love technology and I intend to develop myself in this area.
-</p>
-<p>I'm curious and I like to learn a little bit of everything.</p>
-<p>Python Jr developer, practice in systems automation and data analysis.</p>
-<p>I always try to evolve in knowledge, I want to specialize in Open Source and Artificial Intelligence.</p>
+<br clear="right"/>
 
-<div align='center'>
-<h3>📲 Contact:</h3>
-<br>
-<p>
-  <a href="https://www.linkedin.com/in/rodineyw/" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="25" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  
-  &nbsp; <a href="mailto:rodineyw@yahoo.com.br">
-    <img align="center" height="25" src="https://img.shields.io/badge/-rodineyw@yahoo.com.br-05122A?style=flat&logo=yahoo&logoColor=white" alt="email"/>
-  </a>
-</p>
-</div>
+---
 
-##
-
-<br/>
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/UV-Pkg_Manager-DB61A2?style=for-the-badge&logo=python&logoColor=white" alt="UV" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+</div>
+
+---
+
+### 🔭 O que estou fazendo agora / What I'm doing now
+
+- 👔 **Consultoria / Consulting:** Perez de Rezende - Advogados.
+- 📊 **Projeto BI:** Pipeline de dados com Polars & Power BI.
+- 💰 **Finanças / Finance:** Dashboard pessoal de investimentos usando Streamlit & SQLite.
+- ⚙️ **Ferramentas / Tools:** Criando um editor SQL personalizado com Python (PySide6).
+- 🤖 **IA / AI:** Automações com OCR (Tesseract) e LLMs locais (Llama/DeepSeek).
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
   <a href="https://github.com/rodineyw?tab=repositories">
-      <img src="https://github-readme-stats-ten-lovat-74.vercel.app/api?username=rodineyw&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache=v1" width="48%" alt="@rodineyw github-readme-stats"/>
+    <img src="https://github-readme-stats-ten-lovat-74.vercel.app/api?username=rodineyw&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" width="48%" alt="GitHub Stats"/>
   </a>
-  
   <a href="https://github.com/rodineyw?tab=stars">
-      <img src="https://github-readme-streak-stats-rodiney.vercel.app/?user=rodineyw&theme=gotham&hide_border=true&count_private=true" width="48%" alt="@rodineyw github-readme-streak-stats"/>
+    <img src="https://github-readme-streak-stats-rodiney.vercel.app/?user=rodineyw&theme=gotham&hide_border=true&count_private=true" width="48%" alt="Streak Stats"/>
   </a>
-</p>
-
-<p align="center">
+  <br/>
   <a href="https://wakatime.com/@rodineyw">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodineyw&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodineyw&theme=react-dark&hide_border=true&area=true&custom_title=Activity%20Graph" width="98%" alt="Activity Graph">
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://wakatime.com/@rodineyw"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-  <a href="https://github.com/rodineyw?tab=following"><img src="https://img.shields.io/github/stars/rodineyw?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-  
-
+<div align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/rodineyw/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rodineyw@yahoo.com.br">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
