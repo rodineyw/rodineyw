@@ -2,9 +2,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=50&section=header&text=Hello!%20I'm%20Rod.&fontSize=30&fontColor=ffffff&fontAlign=50" alt="Header" />
 
-  <a href="https://app.daily.dev/rodineyw">
-    <img align="right" src="https://api.daily.dev/devcards/v2/iK1sOSOuCvk6UVpoFTbwS.png?r=1v9&type=default" width="300" alt="rodineyw's Dev Card"/>
-  </a>
 
   <div align="left">
     <h3>👨‍💻 Sobre Mim / About Me</h3>
