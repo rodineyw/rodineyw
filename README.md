@@ -2,6 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=50&section=header&text=Hello!%20I'm%20Rod.&fontSize=30&fontColor=ffffff&fontAlign=50" alt="Header" />
 
+  
 
   <div align="left">
     <h3>👨‍💻 Sobre Mim / About Me</h3>
@@ -12,6 +13,10 @@
       <b>EN:</b> Based in São Paulo, I'm a Software Consultant and Data Specialist. My focus is solving complex problems using <b>Python</b> for automation, ETL, and data analysis, as well as creating robust visualizations in <b>Power BI</b>. Currently focused on Data Engineering projects and developing proprietary tools.
     </p>
   </div>
+
+  <a href="https://app.daily.dev/rodineyw">
+    <img src="https://api.daily.dev/devcards/v2/iK1sOSOuCvk6UVpoFTbwS.png?type=default&r=uhv" width="356" alt="Rodiney Wanderson's Dev Card"/>
+  </a>
 
 </div>
 
