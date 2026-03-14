@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=50&section=header&text=Hello!%20I'm%20Rod.&fontSize=30&fontColor=ffffff&fontAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D8BC9&height=50&section=header&text=Hello!%20I'm%20Rod.&fontSize=30&fontColor=ffffff&fontAlign=50" alt="Header" />
 
   <div align="left">
     <h3>👨‍💻 Sobre Mim / About Me</h3>
