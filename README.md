@@ -69,14 +69,14 @@
 
 <div align="center">
   <a href="https://github.com/rodineyw?tab=repositories">
-    <img src="https://github-readme-stats-ten-lovat-74.vercel.app/api?username=rodineyw&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-ten-lovat-74.vercel.app/api?username=rodineyw&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/rodineyw?tab=stars">
-    <img src="https://github-readme-streak-stats-rodiney.vercel.app/?user=rodineyw&theme=gotham&hide_border=true&count_private=true" width="48%" alt="Streak Stats"/>
+    <img src="https://github-readme-streak-stats-rodiney.vercel.app/?user=rodineyw&theme=gotham&hide_border=true&count_private=true&timezone=America/Sao_Paulo&cache_seconds=1800" width="48%" alt="Streak Stats"/>
   </a>
   <br/>
   <a href="https://wakatime.com/@rodineyw">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodineyw&theme=react-dark&hide_border=true&area=true&custom_title=Activity%20Graph" width="98%" alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodineyw&theme=react-dark&hide_border=true&area=true&timezone=America/Sao_Paulo&custom_title=Activity%20Graph" width="98%" alt="Activity Graph">
   </a>
 </div>
 
